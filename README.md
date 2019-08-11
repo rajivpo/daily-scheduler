@@ -15,7 +15,7 @@ The range of valid `Event` times has been arbitrarily defined from 9AM-9PM.
 
 **Future Directions**
 
-- Make beautiful
+- Make beautiful and usable on mobile
 - Persistent Data Storage
 - Use Zapier to integrate and sync with Google Calendar
 - Build a `ThemeContext` for DarkMode
